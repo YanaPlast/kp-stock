@@ -1,0 +1,10 @@
+/node_modules
+/.npm
+.vscode
+.sublime-workspace
+.sublime-project
+.idea
+.DS_Store
+.vagrant
+
+*.log
